@@ -1,0 +1,65 @@
+characters = {
+#Create country leader - УРП
+urp = {
+	name = urp
+	portraits = {
+		civilian = {
+			#Custom image for УРП
+			large = "/gfx/leaders/ukr/iYwxmBcs-1.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = marxism
+		traits = {  }
+	}
+}
+
+#Create country leader - УДХП
+udhp = {
+	name = udhp
+	portraits = {
+		civilian = {
+			#Custom image for УДХП
+			large = "/gfx/leaders/ukr/yvixaqTM-1.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = centrism
+		traits = {  }
+	}
+}
+
+#Create country leader - УНП
+unp = {
+	name = unp
+	portraits = {
+		civilian = {
+			#Custom image for УНП
+			large = "/gfx/leaders/ukr/alyHpgDc-1.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = nazism
+		traits = {  }
+	}
+}
+
+#Create country leader - УСДРП
+usdrp = {
+	name = usdrp
+	portraits = {
+		civilian = {
+			#Custom image for УСДРП
+			large = "/gfx/leaders/ukr/IbdtPqhu-1.dds"
+		}
+	}
+	country_leader = {
+		expire = "28.06.1936"
+		ideology = liberalism
+		traits = {  resolute_social_democrat }
+	}
+}
+}

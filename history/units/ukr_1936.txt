@@ -1,0 +1,47 @@
+#Create units
+division_template = {
+	name = "Striletska Divizia"
+	division_names_group = "ukr_DIV_0_0"
+	regiments = {
+		infantry = { x = 0 y = 0}
+		infantry = { x = 0 y = 1}
+		infantry = { x = 0 y = 2}
+		infantry = { x = 1 y = 0}
+		infantry = { x = 1 y = 1}
+		infantry = { x = 1 y = 2}
+	}
+	support = {
+		recon = { x = 0 y = 0}
+		engineer = { x = 0 y = 1}
+	}
+
+}
+
+#Spawn units
+units = {
+	division= {
+		name = "1st Striletska Divizia"
+		location = 409
+		division_template = "Striletska Divizia"
+	}
+	division= {
+		name = "2nd Striletska Divizia"
+		location = 6497
+		division_template = "Striletska Divizia"
+	}
+	division= {
+		name = "3rd Striletska Divizia"
+		location = 9435
+		division_template = "Striletska Divizia"
+	}
+	division= {
+		name = "4th Striletska Divizia"
+		location = 9714
+		division_template = "Striletska Divizia"
+	}
+	division= {
+		name = "5th Striletska Divizia"
+		location = 11409
+		division_template = "Striletska Divizia"
+	}
+}

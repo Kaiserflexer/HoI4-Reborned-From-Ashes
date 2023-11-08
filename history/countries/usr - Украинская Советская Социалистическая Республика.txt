@@ -1,0 +1,30 @@
+﻿oob = "usr_1936"
+capital = 1
+set_research_slots = 3
+set_stability = 36
+set_war_support = 51
+set_convoys = 
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+}
+
+
+
+#Politics for 1936.1.1
+set_politics = {
+	ruling_party = communism
+	last_election = "1935.4.24"
+	election_frequency = 60
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 17
+	fascism = 13
+	communism = 66
+	neutrality = 4
+}
+
+

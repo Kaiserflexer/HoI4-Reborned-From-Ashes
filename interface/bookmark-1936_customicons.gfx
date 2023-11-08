@@ -1,0 +1,7 @@
+spriteTypes = { 
+	##Icon For: 1936
+	SpriteType = { 
+		name = "1936-566749"
+		texturefile = "gfx/interface/bookmarks/1936-bookmark/1936-566749.dds"
+	}
+

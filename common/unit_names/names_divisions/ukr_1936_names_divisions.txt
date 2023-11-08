@@ -1,0 +1,8 @@
+ukr_DIV_0_0 = {	name = "Striletska Divizia"
+	for_countries = { ukr }
+	can_use = { always = yes }
+	division_types = { 
+		"infantry" }
+	}
+	fallback_name = "%d. Striletska Divizia"
+}

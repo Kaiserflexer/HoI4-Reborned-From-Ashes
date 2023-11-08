@@ -1,0 +1,30 @@
+bookmarks = {
+	bookmark = {
+		name = "1936_name"
+		desc = "1936_desc"
+		date = 1936.1.1.12
+	picture = "1936-566749"
+		default_country = "UKR"
+		default = yes
+		"ukr" = {
+			history = "1936_ukr"
+			ideology = democratic
+		}
+		"bel" = {
+			history = "1936_bel"
+			ideology = neutrality
+		}
+		"tar" = {
+			history = "1936_tar"
+			ideology = neutrality
+		}
+		"usr" = {
+			history = "1936_usr"
+			ideology = communism
+		}
+		"fer" = {
+			history = "1936_fer"
+			ideology = fascism
+		}
+	}
+}
