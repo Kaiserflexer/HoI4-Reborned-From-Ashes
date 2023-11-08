@@ -2,7 +2,13 @@
 ## Hoi 4: Reborned From Ashes
 
  - [Website](https://hoi4-reborned-from-ashes.onepage.me/)
+ - [Telegram](https://t.me/+ygQ2XuE5iDFlYzJh)
  - [Steam](https://github.com/Kaiserflexer/HoI4-Reborned-From-Ashes)
+
+
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 
@@ -13,4 +19,19 @@ The Hearts of Iron 4: Reborn From Ashes project is an alternative historical mod
 
 
 ![Logo](https://cdn0.iconfinder.com/data/icons/peace-not-war/32/coat_of_arms_Ukraine_symbol_shield_trident-256.png)
+
+
+## Translation
+
+**English:** not ready
+
+**Ukrainian:** not ready
+
+**Russian:** as main
+
+
+
+## Authors
+
+- [@kaiserflexer](https://t.me/kaiserflexer)
 
